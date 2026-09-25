@@ -1,4 +1,4 @@
-;;; evil-textobj-line.el --- Line text object for Evil
+;;; evil-textobj-line.el --- Line text object for Evil  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2015 Syohei YOSHIDA
 
